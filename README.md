@@ -1,3 +1,3 @@
-Pythonを使用した業務効率化の1例を記載します。
-この例は、業務において問い合わせがあった場合に、「outlook」に受信する内容をメールサーバーから取得し、指定した任意の「Excel」ファイルに自動的に追記をしていく内容です。
-1件1件、手動で追記をしてデータを管理＋把握に努めている。と言った手間暇のかかる処理を自動化する事で格段に業務効率が向上します、
+Here is an example of using Python to improve operational efficiency.
+This example involves automatically retrieving inquiry content from the mail server when a business inquiry is received in Outlook, and appending it to a specified Excel file.
+By automating this time-consuming process—where each entry is manually added to manage and track data—operational efficiency is significantly enhanced.
